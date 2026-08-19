@@ -1,4 +1,4 @@
-# React Habbit Tracker
+# Habit Tracker React
 
 # Development
 
