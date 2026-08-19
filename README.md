@@ -1,4 +1,4 @@
-# Habit Tracker React
+# React Vite Template
 
 # Development
 
